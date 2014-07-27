@@ -11,8 +11,8 @@ public class Person {
 		System.out.println("Name : " + name);
 		System.out.println("DOOR NO :" + doorNo);
 		System.out.println("CONTACT : " + contactNumber);
-		System.out.println("ADDRESS :" + address);
-
+		System.out.println("ADDRESS :" + address);		
+		
 	}
 
 }
